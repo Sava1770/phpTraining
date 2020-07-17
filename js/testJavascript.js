@@ -16,3 +16,4 @@ for(var i = 0; i < 3; i++){
 }
 
 alert("Your daily budget is " + (mainList.budget / 30));
+
